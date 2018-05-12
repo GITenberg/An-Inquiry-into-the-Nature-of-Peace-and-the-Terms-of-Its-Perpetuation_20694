@@ -1,0 +1,29 @@
+_repo: An-Inquiry-into-the-Nature-of-Peace-and-the-Terms-of-Its-Perpetuation_20694
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Veblen, Thorstein
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '438'
+    url: http://www.gutenberg.org/2009/agents/438
+    wikipedia: http://en.wikipedia.org/wiki/Thorstein_Veblen
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Peace'
+- !lcc 'JX'
+- !lcsh 'Peace'
+title: An Inquiry into the Nature of Peace and the Terms of Its Perpetuation
+url: http://www.gutenberg.org/ebooks/20694
