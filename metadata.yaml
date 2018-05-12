@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/438
     wikipedia: http://en.wikipedia.org/wiki/Thorstein_Veblen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20694#An-Inquiry-into-the-Nature-of-Peace-and-the-Terms-of-Its-Perpetuation
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-02-27'
 gutenberg_type: Text
